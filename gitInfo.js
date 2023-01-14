@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-let gitDefinition = "Git is a control system for changing adding opening and viewing files."
+let gitDefinition = "Git is a control system for changing, adding, opening, and viewing files."
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -26,7 +26,7 @@ let gitHubDefinition = "Github is a cloud based storage for your files added thr
 */
 
 //CODE HERE
-let gitInitDefinition = "Git init initializes a new repository or to convert uninitialized repositories."
+let gitInitDefinition = "Git init initializes a new repository or converts uninitialized repositories."
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -42,7 +42,7 @@ let gitCloneDefinition = "Git clone is for selecting an existing repository and 
 */
 
 //CODE HERE
-let gitStatusDefinition = "Git status shows the current state of the wokring directory along with staging."
+let gitStatusDefinition = "Git status shows the current state of the working directory along with staging."
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,8 +53,8 @@ let gitStatusDefinition = "Git status shows the current state of the wokring dir
 */
 
 //CODE HERE
-let gitAddDefinition = "Git add adds some file to be tracked."
-let gitAddCode = "git add--all"
+let gitAddDefinition = "Git add adds all files with changes to be tracked."
+let gitAddCode = "git add --all"
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -66,7 +66,7 @@ let gitAddCode = "git add--all"
 
 //CODE HERE
 let gitCommitDefinition = "Commit saves all current changes of the project "
-let gitCommitCode = "Git commmit -m 'initial commit'"
+let gitCommitCode = "git commmit -m 'initial commit'"
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
